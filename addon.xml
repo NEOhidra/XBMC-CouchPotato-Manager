@@ -10,6 +10,7 @@
     <extension point="xbmc.addon.metadata">
         <language></language>
         <platform>all</platform>
+        <license>GNU GENERAL PUBLIC LICENSE. Version 2, June 1991</license>
         <website>https://couchpota.to/</website>
         <source>https://github.com/dersphere/XBMC-CouchPotato-Manager</source>
         <forum>http://forum.xbmc.org/showthread.php?tid=159274</forum>
